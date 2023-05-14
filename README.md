@@ -78,7 +78,14 @@ Run the application using the Visual Studio 2022, where you can run the main met
 <details>
 <summary>Show application's screenshots</summary>
 
-[//]: # (<img src="images/img.png" width="800" /><br>)
+<img src="images/app-screenshots/1.png" /><br>
+<img src="images/app-screenshots/2.png" /><br>
+<img src="images/app-screenshots/3.png" /><br>
+<img src="images/app-screenshots/4.png" /><br>
+<img src="images/app-screenshots/5.png" /><br>
+<img src="images/app-screenshots/6.png" /><br>
+<img src="images/app-screenshots/7.png" /><br>
+<img src="images/app-screenshots/8.png" /><br>
 
 </details>
 

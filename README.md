@@ -6,6 +6,14 @@ Repository is for educational purpose - doing a final project "Eisenhower matrix
 discipline *"Programming on the .Net platform"* in
 the university "[Kharkiv National University of Radio Electronics][1]".
 
+### The Eisenhower Matrix
+The Eisenhower Matrix, also referred to as Urgent-Important Matrix, helps you decide on and prioritize tasks by urgency 
+and importance, sorting out less urgent and important tasks which you should either delegate or not do at all. 
+
+![The Eisenhower Matrix image](images/Eisenhower-Matrix.webp)
+
+More information is [here](https://www.eisenhower.me/eisenhower-matrix/).
+
 ## What is the purpose of this project?
 
 The **purpose** of the project is ***doing final project "Eisenhower matrix"*** on the discipline *"Programming on the .Net platform"*.
